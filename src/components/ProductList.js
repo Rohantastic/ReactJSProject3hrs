@@ -1,4 +1,3 @@
-// ProductList.js
 import React from 'react';
 
 function ProductList({ products, deleteProduct }) {
